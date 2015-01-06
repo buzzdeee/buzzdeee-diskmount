@@ -1,5 +1,5 @@
 {
-  "name": "buzzdee-diskmount",
+  "name": "buzzdeee-diskmount",
   "version": "0.1.0",
   "author": "Sebastian Reitenbach",
   "summary": "OpenBSD hotplug diskmount utility.",
