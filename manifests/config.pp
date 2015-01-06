@@ -1,3 +1,7 @@
+# Private class, do not use directly.
+# The class takes care about the
+# configuration of the service.
+
 class diskmount::config (
   $user
 ){

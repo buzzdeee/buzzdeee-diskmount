@@ -3,15 +3,19 @@
   "version": "0.1.0",
   "author": "Sebastian Reitenbach",
   "summary": "OpenBSD hotplug diskmount utility.",
-  "license": "Apache 2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
-  "dependencies": [
+  "license": "Apache-2.0",
+  "source": "https://github.com/buzzdeee/buzzdeee-diskmount.git",
+  "project_page": "https://github.com/buzzdeee/buzzdeee-diskmount",
+  "issues_url": "https://github.com/buzzdeee/buzzdeee-diskmount/issues",
+  "dependencies": [],
+  "operatingsystem_support": [
     {
-      "name": "puppetlabs-stdlib",
-      "version_range": ">= 1.0.0"
+      "operatingsystem": "OpenBSD",
+      "operatingsystemrelease": [ "5.6" ]
     }
+  ],
+  "tags": [
+    "OpenBSD", "hotplug", "diskmount"
   ]
 }
 

@@ -1,3 +1,8 @@
+# Private class, do not use directly.
+# Class takes care about the installation
+# and initial configuration of the
+# required packages.
+
 class diskmount::install {
 
   package { 'hotplug-diskmount':
